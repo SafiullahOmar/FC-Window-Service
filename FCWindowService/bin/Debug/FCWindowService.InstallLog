@@ -1,0 +1,206 @@
+﻿Installing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Installing service FCService...
+Service FCService has been successfully installed.
+Creating EventLog source FCService in log Application...
+Committing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+Removing EventLog source FCService.
+Service FCService is being removed from the system...
+Service FCService was successfully removed from the system.
+Installing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Installing service FCService...
+Service FCService has been successfully installed.
+Creating EventLog source FCService in log Application...
+Committing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Installing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Installing service FCService...
+Creating EventLog source FCService in log Application...
+Rolling back assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Restoring event log to previous state for source FCService.
+Installing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Installing service FCService...
+Creating EventLog source FCService in log Application...
+Rolling back assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Restoring event log to previous state for source FCService.
+Uninstalling assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+Removing EventLog source FCService.
+Service FCService is being removed from the system...
+Service FCService was successfully removed from the system.
+Installing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Installing service FCService...
+Service FCService has been successfully installed.
+Creating EventLog source FCService in log Application...
+Committing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+Removing EventLog source FCService.
+Service FCService is being removed from the system...
+Service FCService was successfully removed from the system.
+Installing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Installing service FCService...
+Service FCService has been successfully installed.
+Creating EventLog source FCService in log Application...
+Committing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+Removing EventLog source FCService.
+Service FCService is being removed from the system...
+Service FCService was successfully removed from the system.
+Installing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Installing service FCService...
+Service FCService has been successfully installed.
+Creating EventLog source FCService in log Application...
+Committing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+Removing EventLog source FCService.
+Service FCService is being removed from the system...
+Service FCService was successfully removed from the system.
+Installing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\fcwindowservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\fcwindowservice.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\fcwindowservice.exe
+   logtoconsole = 
+Installing service FCService...
+Service FCService has been successfully installed.
+Creating EventLog source FCService in log Application...
+Committing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\fcwindowservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\fcwindowservice.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\fcwindowservice.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\FCWindowService\FCWindowService\bin\Debug\fcwindowservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\fcwindowservice.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\fcwindowservice.exe
+Removing EventLog source FCService.
+Service FCService is being removed from the system...
+Service FCService was successfully removed from the system.
+Installing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Installing service FCService...
+Service FCService has been successfully installed.
+Creating EventLog source FCService in log Application...
+Committing assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+Removing EventLog source FCService.
+Service FCService is being removed from the system...
+Service FCService was successfully removed from the system.
+Installing assembly 'D:\FCWindowService\FCWindowService\bin\debug\fcwindowservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\debug\fcwindowservice.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\debug\fcwindowservice.exe
+   logtoconsole = 
+Installing service FCService...
+Service FCService has been successfully installed.
+Creating EventLog source FCService in log Application...
+Committing assembly 'D:\FCWindowService\FCWindowService\bin\debug\fcwindowservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\FCWindowService\FCWindowService\bin\debug\fcwindowservice.InstallLog
+   assemblypath = D:\FCWindowService\FCWindowService\bin\debug\fcwindowservice.exe
+   logtoconsole = 
